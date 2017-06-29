@@ -16,6 +16,7 @@
 1) Clone repo
 2) On the command line type 'yarn install'
 3) Wait for the packages to install, then type 'yarn start'
+4) Go localhost:8080 to use!
 
 
 ### Stuff used to make this:
